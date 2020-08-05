@@ -18,5 +18,3 @@ VESA (Video Electronics Standards Association) is an international standards bod
 + VESA_Document_Center_Plug_Display
 + VESA_Document_Center_Video_Interface
 
-
-## [mirror] (https://www.dropbox.com/sh/sjinyvm0dssu9x0/NIb_qUwgau/ "Dropbox") ##
