@@ -1,0 +1,10 @@
+{
+  "name": "qiuxi",
+  "short_name": "qiuxi",
+  "description": "",
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
