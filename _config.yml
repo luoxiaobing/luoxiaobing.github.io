@@ -1,6 +1,6 @@
 # Site settings
-title: qiuxi
-SEOTitle: 丘夕的Blog | qiuxi blog
+title: 0lxb
+SEOTitle: 丘夕的Blog | 0lxb blog
 header-img: img/home-bg.jpg
 email: luoxiaobing0926@gmail.com
 description: ""
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     
-zhihu_username:     qiuxi
-github_username:    qiuxi
-#twitter_username:   
-#facebook_username:  
+weibo_username:     andrewkeen
+zhihu_username:     0lxb
+github_username:    0lxb
+twitter_username:   0xlxb
+facebook_username:  0xlxb
 #linkedin_username:  firstname-lastname-idxxxx
 
 
